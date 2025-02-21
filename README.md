@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tonyfunk
 - 👀 I’m interested in Web, Agility, chess & so on ! 
-- 🌱 I’m currently learning Ruby/Java/HTML/CSS @ le Wagon 
+- 🌱 I’m currently learning Ruby/Java/HTML/CSS @ le Wagon
+- https://antoinelebeau.pro
 
 
 <!---
